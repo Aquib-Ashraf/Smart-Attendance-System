@@ -11,14 +11,6 @@ The AI Attendance System is a Python-based application designed to manage attend
 - **Admin Dashboard**: Allows administrators to view attendance reports and manage users.
 - **Attendance Logs**: Keeps a record of all the attendance sessions.
 
-## Contributors
-
-- [Abhishek Jha](https://github.com/abhishekcodes16)
-- [Aditya Shukla](https://github.com/Aditya-Shukla05)
-- [Ashkrit Rai](https://github.com/Askme007)
-- [Abhishek Kumar](https://github.com/Akabhi2311)
-- [Aayush Kumar](https://github.com/Akcodet7)
-  
 ## Installation
 
 ### Prerequisites
@@ -36,8 +28,8 @@ Before you begin, make sure you have the following installed:
    Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/Askme007/AI-Attendance-System.git
-   cd AI-Attendance-System
+   git clone https://github.com/Aquib-Ashraf/Smart-Attendance-System.git
+   cd Smart-Attendance-System
    ```
 
 2. **Create a Virtual Environment**
